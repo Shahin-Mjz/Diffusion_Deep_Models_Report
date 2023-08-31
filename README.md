@@ -37,3 +37,5 @@ $\color{white}{\bf{\text{A Technical Report for Image Generation Using Diffusion
 
 
 - [x] References
+
+>> $\color{red}{\bf{\text{Note: }}}\color{white}{\text{To view this report, you will need to download it.}}$
